@@ -23,3 +23,16 @@ A Python-based cybersecurity tool that analyzes the strength of user passwords a
 - `itertools`, `re`, `string` – standard Python libs
 
 ---
+
+📌 Use Cases
+✅ Password audit tools
+
+✅ Red teaming / penetration testing
+
+✅ Security awareness training
+
+✅ Wordlist generation for offline attacks (for ethical hacking)
+
+⚠ Disclaimer
+This tool is intended for educational and ethical use only. Do not use it against systems or accounts you do not own or have explicit permission to test.
+
