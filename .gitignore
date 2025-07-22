@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Env
+venv/
+.env
+
+# Wordlists
+wordlists/*.txt
+
+# IDE
+.vscode/
+*.log
